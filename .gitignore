@@ -1,0 +1,4 @@
+*.a
+*.o
+*.log
+philo/philo
